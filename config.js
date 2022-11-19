@@ -27,27 +27,27 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/drak_ipul123'
-global.syt = 'https://youtu.be/pwLZpdfO8AU'
+global.sig = 'https://instagram.com/jokosr_'
+global.syt = 'https://youtu.be/'
 global.sgh = 'https://github.com/SaipulAnuar'
 global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
-global.swa = 'wa.me/6288279268363'
+global.swa = 'wa.me/6282267244743'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '088279268363'
+global.pdana = '082267244743'
 global.povo = '-'
-global.pgopay = '088279268363'
+global.pgopay = '082267244743'
 global.ppulsa = '-'
 global.ppulsa2 = '-'
 global.psaweria = 'https://saweria.co/raraharsita2'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '17326319049'
-global.nomorown = '6288279268363'
-global.namebot = 'Yuki Adistyラ'
-global.nameown = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.nomorbot = '082267244743'
+global.nomorown = '6282267244743'
+global.namebot = 'jokobotラ'
+global.nameown = 'ᴹᴿ᭄ jokoganz ×፝֟͜×'
 
 
 /*============== STAFF ==============*/
